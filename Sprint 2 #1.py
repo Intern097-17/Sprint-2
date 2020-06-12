@@ -24,7 +24,7 @@ while question != 'N':
         print('Invalid response. Please type "Y" or "N".') # If hypothetically user types a letter/digit thats not N or Y
         question = input('Would you like to roll the dice [Y/N]?\n')        
 
-print('Good-bye!')
+print('Good-bye!') # If the letter 'N' is used "Good-bye!" is printed
 
 
 # In[ ]:
